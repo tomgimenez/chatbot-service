@@ -1,5 +1,12 @@
 # E-Commerce Chatbot Service
 
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![Claude Anthropic](https://img.shields.io/badge/Claude%20Anthropic%20SDK-orange)
+
 A sophisticated AI-powered chatbot microservice built for e-commerce platforms. This service leverages **Claude 3.5 Sonnet** from Anthropic to provide intelligent customer support with real-time product data integration. The service is designed to scale efficiently using **MongoDB** for conversation persistence and **RabbitMQ** for asynchronous message handling.
 
 ## Overview
